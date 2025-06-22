@@ -65,9 +65,9 @@ hifigan/
    pip install gradio
 
 ---
-##✅ How to Run
-  ```bash
-    python app.py
+##✅ **How to Run**
+
+   python app.py
 ---
 ## ⚠️ Note
 Due to GitHub's file size limitations, this repository does not include pretrained models or checkpoints. You must download and place them manually as instructed above.
